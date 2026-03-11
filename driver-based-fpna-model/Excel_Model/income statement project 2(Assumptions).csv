@@ -1,0 +1,17 @@
+﻿product, Base Monthly Units,Avg selling pricing(ASP),Seasonality Factor,
+Smart Bulbs (SB),20000,$18,"1,00",
+Smart Plug (SP),30000,$13,"1,5",
+Home Hub (HH),17000,$25," 0,5 ",
+,,,,
+COGS Drivers (per unit):,,,,
+product,Material Cost, Labor Cost, Manufacturing OH,Total Unit Cost
+Smart Bulbs (SB),$3,$3,$1,$7
+Smart Plug (SP),$2,$2,$1,$5
+Home Hub (HH),$4,$3,$2,$9
+,,,,
+OPEX Drivers :,,,,
+Sales & Marketing % of Revenue,11%,,,
+ Monthly G&A,"$150,000",,,
+Monthly R&D Spend,"$80,000",,,
+,,,,
+monthly volume growth rate,1%,,,

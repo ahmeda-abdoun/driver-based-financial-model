@@ -1,0 +1,58 @@
+﻿Category_SB,Actual,Budget,Variance ($),Variance (%),Driver Explanation,,Category_SP,Actual,Budget,Variance ($),Variance (%),Driver Explanation
+Revenue variance,"$5,017,418","$4,797,787","$219,631",5%,"Revenue exceeded budget by $219k, driven by higher then expected volume sold, partialy offset by lower selling price per unit.",,Revenue variance,"$6,064,700","$5,197,603","$867,097",17%,"Revenue exceeded budget by $817k, driven by higher selling price per unit, partialy offset by lower sale volume"
+unit variance,293854,266544,"$491,585",10%,"Positive $491k variance driven by selling 27,310 more units then budgeted, reflecting strong demaned",,unit variance,395800,399816,"-$52,203",-1%,"Negative $52k variance driven by selling 4,016 fewer units than budgeted, partially offsetting the revenue gain from higher selling price."
+price variance,$17,$18,"-$271,954",-6%,"Negative $271k variance driven by selling with lower price then planned,which partialy offset volume gain",,price variance,$15,$13,"$919,300",18%,Positive $869k variance driven by selling at a higher price per unit than planned.
+Total Revenue variance,"$5,017,418","$4,797,787","$219,631",5%,Total revenue variance reflects the combined effect of slightly lower price and higher volume,,Total Revenue variance,"$6,064,700","$5,197,603","$867,097",17%,Total revenue variance reflects the combined effect of slightly lower volume and higher selling price per unit
+,,,,,,,,,,,,
+Category_HH,Actual,Budget,Variance ($),Variance (%),Driver Explanation,,Category_total,Actual,Budget,Variance ($),Variance (%),Driver Explanation
+Revenue variance,"$5,888,180","$5,664,055","$224,125",4%,"Revenue exceeded budget by $224k, driven by higher selling price per unit, partialy offset by lower sale volume",,Revenue variance,"$16,970,298","$15,659,445","$1,310,853",8%,"Revenue exceeded budget by $1.26M (+8%), driven primarily by higher average selling prices across products, which more than offset a modest shortfall in sales volume."
+unit variance,219420,226562,"-$178,555",-3%,"Negative $178k variance due to selling 7,142 fewer units than budgeted, partially offset by higher selling price per unit.",,unit variance,909074,892922,"$283,270",2%,"Revenue was negatively impacted by lower-than-budgeted sales volume, reflecting fewer units sold than planned. This volume shortfall partially offset the positive price impact."
+price variance,$27,$25,"$402,680",7%,"Positive $402k variance driven by selling at a higher price per unit than planned, partially offsetting the volume shortfall.",,price variance,$19,$18,"$1,027,582",7%,"Revenue benefited from a favorable price variance, driven by higher-than-budgeted selling prices across products, resulting in a $977.9k positive impact despite lower volumes."
+Total Revenue variance,"$5,888,180","$5,664,055","$224,125",4%,Total revenue variance reflects the combined effect of slightly lower volume and higher selling price per unit,,Total Revenue variance,"$16,970,298","$15,659,445","$1,310,853",8%,"Total revenue variance reflects the net effect of unfavorable volume and favorable pricing, with price increases more than compensating for the volume decline."
+,,,,,,,,,,,,
+COGS:,,,,,,,,,,,,
+Category_SB,Actual,Budget,Variance ($),Variance (%),Driver Explanation,,Category_SP,Actual,Budget,Variance ($),Variance (%),Driver Explanation
+COGS variance,"$2,333,882","$1,865,806","$468,076",25%,"COGS exceeded budget by $468k (+25%), driven primarily by higher production volume and, to a lesser extent, higher unit costs.",,COGS variance,"$2,266,200","$1,999,078","$267,122",13%,"COGS exceeded budget by $267k (+13%), driven by higher unit costs, partially offset by slightly lower production volume."
+unit variance,293854,266543.7,"$191,172",10%,"Higher-than-budgeted production volume increased COGS by $191k, reflecting 27k additional units produced/sold versus plan.",,unit variance,395800,399815.6,"-$20,078",-1%,"Lower-than-budgeted volume reduced COGS by $20k, reflecting fewer units produced/sold versus plan."
+cost variance,$8,$7,"$276,904",15%,"Higher unit costs versus budget increased COGS by $276k, indicating modest cost pressure while overall cost control remained stable.",,cost variance,$6,$5,"$287,200",14%,"Higher unit costs increased COGS by $287k, more than offsetting the favorable volume impact and indicating cost pressure."
+Total COGS variance,"$2,333,882","$1,865,806","$468,076",25%,"Total COGS variance reflects the combined impact of higher volume and higher unit costs, with volume being the primary driver.",,Total COGS variance,"$2,266,200","$1,999,078","$267,122",13%,"Total COGS variance reflects the net effect of favorable volume and unfavorable cost, with higher unit costs being the dominant driver."
+,,,,,,,,,,,,
+Category_HH,Actual,Budget,Variance ($),Variance (%),Driver Explanation,,Category_Total,Actual,Budget,Variance ($),Variance (%),Driver Explanation
+COGS variance,"$2,251,534","$2,039,060","$212,474",10%,"COGS exceeded budget by $212k (+10%), driven primarily by higher unit costs, partially offset by slightly lower production volume.",,COGS variance,"$6,851,616","$5,903,944","$947,672",16%,"Total COGS exceeded budget by $947k (+16%), driven primarily by higher unit costs, with a small unfavorable volume impact."
+unit variance,219420,226562.2,"-$64,280",-3%,"Lower-than-budgeted volume reduced COGS by $64k, reflecting fewer units produced versus plan. The volume impact is relatively small.",,unit variance,"$909,074","$892,922","$106,799",2%,"Actual volume was slightly higher than budget, increasing COGS by $106k (+2%). The volume impact was modest."
+cost variance,$10,$9,"$276,754",14%,"Higher unit costs increased COGS by $276k, making cost the primary driver of the unfavorable variance.",,cost variance,$8,$7,"$840,873",14%,"Higher unit costs increased COGS by $840k (+14%). While the per-unit increase was small, it scaled across total volume and became the dominant driver."
+Total COGS variance,"$2,251,534","$2,039,060","$212,474",10%,"Total COGS variance reflects the net effect of favorable volume and unfavorable cost, with higher unit costs more than offsetting the volume shortfall.",,Total COGS variance,"$6,851,616","$5,903,944","$947,672",16%,"Total COGS variance reflects the combined effect of modestly higher volume and materially higher unit costs, with cost pressure accounting for most of the unfavorable variance."
+,,,,,,,,,,,,
+Gross Profit Bridge:,,,,,,,,,,,,
+product,Units Budget (UB),Units Actual (UA),Price Budget (PB),Price Actual (PA),Cost Budget(CB),Cost Actual (CA),Budget Revenue,Actual Revenue,Budget COGS,Actual COGS,,
+Smart Bulbs (SB),266544,293854,$18,$17,$7,$8,"$4,797,787","$5,017,418","$1,865,806","$2,333,882",,
+Smart Plug (SP),399816,395800,$13,$15,$5,$6,"$5,197,603","$6,064,700","$1,999,078","$2,266,200",,
+Home Hub (HH),226562,219420,$25,$27,$9,$10,"$5,664,055","$5,888,180","$2,039,060","$2,251,534",,
+,,,,,,,,,,,,
+product,Actual GP ,Budget GP ,GP Variance,,Driver,Smart Bulbs (SB),Smart Plug (SP),Home Hub (HH),TOTAL,,,
+Smart Bulbs (SB),"$2,683,536","$2,931,981","-$248,445",,Volume Impact,300413,-32125,-114275,"$154,013",,,
+Smart Plug (SP),"$3,798,500","$3,198,525","$599,975",,Price Impact,-271954,919300,402680,"$1,050,026",,,
+Home Hub (HH),"$3,636,646","$3,624,995","$11,651",,Cost Impact,-276904,-287200,-276754,"-$840,858",,,
+Total,"$10,118,682","$9,755,501","$363,181",,Total,"-$248,445","$599,975","-$848,420","$363,181",,,
+,,,,,,,,,,,,
+,,,Bridge step,GP Impact($) ,Explanation,,,,,,,
+,,,Budget Gross Profit,"$9,755,501",Starting point based on budgeted revenue and budgeted COGS assumptions.,,,,,,,
+,,,Volume impact,"$154,013","Gross profit change driven by selling more units than budgeted, assuming budgeted prices and costs per unit.",,,,,,,
+,,,Price impact,"$1,050,026","Gross profit increase due to higher average selling prices versus budget, holding volume constant.",,,,,,,
+,,,Cost impact,"-$840,858",Gross profit decrease caused by higher actual unit costs compared to budget.,,,,,,,
+,,,Actual Gross Profit,"$10,118,682","Final gross profit after all volume, price, and cost effects.",,,,,,,
+,,,,,,,,,,,,
+Operating Expenses:,,,,,,,,,,,,
+Category,Actual ,Budget,Variance($),Variance(%),Driver Explantion,,,,,,,
+Sales&Markating,"$1,879,597","$1,722,539","$157,058",9.12%,Sales&Markating exceeded budget by $157k driven by the increase in digital campaign spend to support higher volume ,,,,,,,
+General&Administrative ,"$1,800,000","$1,800,000",$0,0.00%,General&Administrative remained in line with budget,,,,,,,
+Research&Development,"$960,000","$960,000",$0,0.00%,Research&Development remained in line with budget,,,,,,,
+,,,,,,,,,,,,
+Operating Profit Bridge:,,,,,,,,,,,,
+,,,Bridge step,OP Impact($) ,Explanation,,,,,,,
+,,,Budget Operating Profit,"$3,407,156","Baseline from budgeted revenue, COGS, and OPEX.",,,,,,,
+,,,Gross Profit Impact,"$2,228,987","Actual gross profit was lower than budget, mainly due to unfavorable price / cost mix versus plan.",,,,,,,
+,,,S&M Impact,"-$157,058",Higher-than-budget Sales & Marketing spend reduced operating profit.,,,,,,,
+,,,G&A Impact,$0,"G&A remained on budget, no effect.",,,,,,,
+,,,R&D Impact,$0,R&D spend matched budget with no material variance.,,,,,,,
+,,,Actual Operating Profit,"$5,479,085","Sum of all effects, fully reconciling to P&L.",,,,,,,
