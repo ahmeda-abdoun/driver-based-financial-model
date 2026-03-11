@@ -1,5 +1,5 @@
 # Driver-Based Financial Performance Analysis (Excel + Power BI)
-
+![Financial Dashboard](PowerBI/Financial_dashboard.PNG)
 ## Project Overview
 
 This project demonstrates a **driver-based financial analysis model** built in Excel and visualized in Power BI.
