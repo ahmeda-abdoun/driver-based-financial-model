@@ -111,7 +111,3 @@ Key elements included:
 * Business performance storytelling
 
 ---
-
-## Dashboard Preview
-
-![Financial Dashboard](PowerBI/financial_dashboard.png)
